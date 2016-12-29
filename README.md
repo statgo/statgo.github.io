@@ -1,2 +1,2 @@
-# statgo.github.io
+# statgo.club
 Website
