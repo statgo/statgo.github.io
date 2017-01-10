@@ -13,7 +13,7 @@ headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  statgo
+#github_username:  statgo
 project_repository: statgo
 #disqus_shortname: statgo
 #g-analytics: UA-75881392-1
