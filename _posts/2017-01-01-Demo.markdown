@@ -8,7 +8,6 @@ category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
 
-{% include mathjax_support.html %}
 
 ## 1 Pre-analysis
 The data is the Monthly CO2 Level at Alert, Canada   (01/1994 - 12/2004). First we can observe the overall trend of the CO2 level during 01/1994 - 12/2004.
@@ -295,7 +294,8 @@ The 95% forecast intervals are reliable since the normality assumption of the re
 
 ## Appendix
 
-{% highlight r %}
+{% highlight text %}
+
 library(TSA)
 library(forecast)
 data(co2)
